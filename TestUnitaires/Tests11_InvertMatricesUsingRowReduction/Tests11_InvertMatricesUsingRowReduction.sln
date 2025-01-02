@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests11_InvertMatricesUsingRowReduction", "Tests11_InvertMatricesUsingRowReduction.csproj", "{D65378A7-C1A3-4002-ADE5-04D1529EF6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D65378A7-C1A3-4002-ADE5-04D1529EF6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65378A7-C1A3-4002-ADE5-04D1529EF6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65378A7-C1A3-4002-ADE5-04D1529EF6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65378A7-C1A3-4002-ADE5-04D1529EF6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
